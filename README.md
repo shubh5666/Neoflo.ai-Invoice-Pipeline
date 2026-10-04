@@ -17,50 +17,47 @@ The system uses a 3-stage modular pipeline: image preprocessing & deskewing, clo
 
 ## 2. Directory Structure
 
-
-Invoice- Pipeline/
+```text
+Neoflo.ai-Invoice-Pipeline/
 │
 ├── data/
-│   ├── digital/                 # Digital PDFs (clean vector text)
-│   ├── scanned/                 # Scanned flatbed/photo PDFs
-│   ├── handwritten/             # Handwritten service receipts
-│   ├── multilingual/            # International invoices (Chinese, Vietnamese)
+│   ├── digital/                    # Digital PDFs (clean vector text)
+│   ├── scanned/                    # Scanned flatbed/photo PDFs
+│   ├── handwritten/                # Handwritten service receipts
+│   ├── multilingual/               # International invoices (Chinese, Vietnamese)
 │   └── ground_truth_benchmark.json # Reference dataset used for testing & SLA audit
 │
 ├── src/
 │   ├── __init__.py
-│   ├── preprocessor.py          # Stage 1: PDF to image conversion & deskewing
-│   ├── extractor.py             # Stage 2: Document AI & dynamic layout extraction
-│   └── validator.py             # Stage 3: Mandatory field validation & confidence checks
+│   ├── preprocessor.py             # Stage 1: PDF to image conversion & deskewing
+│   ├── extractor.py                # Stage 2: Document AI & dynamic layout extraction
+│   └── validator.py                # Stage 3: Mandatory field validation & confidence checks
 │
-├── main.py                      # Pipeline runner script
-├── requirements.txt             # Project dependencies
-├── final_extracted_invoices.json# Final extracted JSON output
-└── README.md                    # Project documentation
-
-
-
-
-
+├── main.py                         # Pipeline runner script
+├── requirements.txt                # Project dependencies
+├── final_extracted_invoices.json   # Final extracted JSON output
+└── README.md                       # Project documentation
+```
 
 ## 3. Pipeline Architecture
 
 Each invoice goes through three simple steps:
 
-
+```text
      Invoice PDF
-         |
-         v
-    Preprocessing
-         |
-         v
-    Extraction
-         |
-         v
-    Validation
-         |
-         v
-    JSON Output
+          │
+          ▼
+    Preprocessing (Deskew, DPI Normalization)
+          │
+          ▼
+    Extraction (Document AI / Fallback OCR)
+          │
+          ▼
+    Validation (Math cross-checks & Review flags)
+          │
+          ▼
+     JSON Output
+```
 
 
 ### Stage 1: Preprocessing
@@ -183,47 +180,42 @@ The pipeline does not automatically accept low-confidence results. Instead it fl
 
 ## 6. How to Run
 
-     Follow these steps on Windows.
+Follow these quick steps on Windows:
 
-  1. Open the Project
+### 1. Clone & Open the Project
+```bash
+git clone https://github.com/shubh5666/Neoflo.ai-Invoice-Pipeline.git
+cd Neoflo.ai-Invoice-Pipeline
+```
 
-      Open PowerShell and run:
+### 2. Set Up Virtual Environment (Optional / Recommended)
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+```
 
-      cd "Invoice-Pipeline"
+### 3. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
 
-  2. Activate the Virtual Environment
-
-        .\.venv\Scripts\Activate.ps1
-
-   3. Install Dependencies
-
-           pip install -r requirements.txt
-
-   4. Run the Pipeline
-
-      python main.py
-
-      The pipeline will process the invoices and save the results in:
-
-      final_extracted_invoices.json
-
-
- 
-
-### Execution
-
-Run the pipeline:
-
+### 4. Run the Pipeline
+```bash
 python main.py
+```
 
-### Optional: Google Cloud Document AI
+The pipeline will process all test invoices and generate the final output in:
+- `final_extracted_invoices.json`
 
-To use the Google Cloud processor instead of the local fallback, set these values in PowerShell:
+---
 
+### Optional: Google Cloud Document AI Setup
+
+To route processing through Google Cloud Document AI (instead of the local layout engine), set your credentials in PowerShell:
+
+```powershell
 $env:GCP_PROJECT_ID="your-project-id"
 $env:DOCUMENTAI_PROCESSOR_ID="your-processor-id"
 $env:GOOGLE_APPLICATION_CREDENTIALS="path\to\service_account.json"
-
-Then run:
-
 python main.py
+```
