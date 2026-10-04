@@ -1,0 +1,5343 @@
+[
+  {
+    "documentId": "digital_01.pdf",
+    "invoice": {
+      "invoiceNumber": {
+        "value": "CSOS 202602-931",
+        "bbox": {
+          "page": 1,
+          "x1": 818,
+          "y1": 135,
+          "x2": 910,
+          "y2": 147
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "invoiceDate": {
+        "value": "02ND FEB 2026",
+        "bbox": {
+          "page": 1,
+          "x1": 850,
+          "y1": 154,
+          "x2": 975,
+          "y2": 166
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "dueDate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierName": {
+        "value": "CRESTLINE STAFFING AND OUTSOURCING SOLUTIONS SDN BHD",
+        "bbox": {
+          "page": 1,
+          "x1": 260,
+          "y1": 20,
+          "x2": 630,
+          "y2": 32
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierAddress": {
+        "value": "Unit B-12-03, Menara Prestij, No 8, Jalan Kerinchi, 59200 Kuala Lumpur",
+        "bbox": {
+          "page": 1,
+          "x1": 167,
+          "y1": 905,
+          "x2": 450,
+          "y2": 915
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "buyerName": {
+        "value": "Jade Eservices Malaysia Sdn. Bhd.",
+        "bbox": {
+          "page": 1,
+          "x1": 180,
+          "y1": 153,
+          "x2": 440,
+          "y2": 166
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "buyerTaxId": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "currency": {
+        "value": "MYR",
+        "bbox": {
+          "page": 1,
+          "x1": 760,
+          "y1": 300,
+          "x2": 785,
+          "y2": 312
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": 150.47,
+        "bbox": {
+          "page": 1,
+          "x1": 890,
+          "y1": 638,
+          "x2": 955,
+          "y2": 651
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "totalAmount": {
+        "value": 13764.48,
+        "bbox": {
+          "page": 1,
+          "x1": 877,
+          "y1": 662,
+          "x2": 955,
+          "y2": 675
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "amountDue": {
+        "value": 13764.48,
+        "bbox": {
+          "page": 1,
+          "x1": 877,
+          "y1": 662,
+          "x2": 955,
+          "y2": 675
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "paymentTerms": {
+        "value": "30 DAYS",
+        "bbox": {
+          "page": 1,
+          "x1": 878,
+          "y1": 188,
+          "x2": 975,
+          "y2": 200
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "purchaseOrderNumber": {
+        "value": "5200004937 - BPO 2026",
+        "bbox": {
+          "page": 1,
+          "x1": 785,
+          "y1": 205,
+          "x2": 975,
+          "y2": 217
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    "lineItems": [
+      {
+        "description": {
+          "value": "Cost of Labor 26th Jan 2026 to 25th Feb 2026",
+          "bbox": {
+            "page": 1,
+            "x1": 178,
+            "y1": 404,
+            "x2": 520,
+            "y2": 418
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 11733.1,
+          "bbox": {
+            "page": 1,
+            "x1": 880,
+            "y1": 404,
+            "x2": 958,
+            "y2": 418
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "Management and Processing Fee",
+          "bbox": {
+            "page": 1,
+            "x1": 178,
+            "y1": 432,
+            "x2": 425,
+            "y2": 447
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 1880.91,
+          "bbox": {
+            "page": 1,
+            "x1": 889,
+            "y1": 432,
+            "x2": 958,
+            "y2": 447
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      }
+    ],
+    "isHumanReviewRequired": false,
+    "reviewReasons": []
+  },
+  {
+    "documentId": "digital_02.pdf",
+    "invoice": {
+      "invoiceNumber": {
+        "value": "RSCT0008",
+        "bbox": {
+          "page": 1,
+          "x1": 838,
+          "y1": 218,
+          "x2": 909,
+          "y2": 228
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "invoiceDate": {
+        "value": "25/02/26",
+        "bbox": {
+          "page": 1,
+          "x1": 806,
+          "y1": 134,
+          "x2": 873,
+          "y2": 145
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "dueDate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierName": {
+        "value": "Tan Wei Ling",
+        "bbox": {
+          "page": 1,
+          "x1": 133,
+          "y1": 67,
+          "x2": 200,
+          "y2": 78
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierAddress": {
+        "value": "12, Jalan Damai 5, Taman Damai 43000 Kajang Selangor",
+        "bbox": {
+          "page": 1,
+          "x1": 133,
+          "y1": 85,
+          "x2": 338,
+          "y2": 93
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "buyerName": {
+        "value": "Jade Eservices Malaysia Sdn Bhd",
+        "bbox": {
+          "page": 1,
+          "x1": 260,
+          "y1": 348,
+          "x2": 442,
+          "y2": 375
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "buyerTaxId": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "currency": {
+        "value": "MYR",
+        "bbox": {
+          "page": 1,
+          "x1": 796,
+          "y1": 849,
+          "x2": 833,
+          "y2": 861
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": 0.0,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "totalAmount": {
+        "value": 400.0,
+        "bbox": {
+          "page": 1,
+          "x1": 836,
+          "y1": 849,
+          "x2": 923,
+          "y2": 861
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "amountDue": {
+        "value": 400.0,
+        "bbox": {
+          "page": 1,
+          "x1": 836,
+          "y1": 849,
+          "x2": 923,
+          "y2": 861
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "paymentTerms": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "purchaseOrderNumber": {
+        "value": "51000383499",
+        "bbox": {
+          "page": 1,
+          "x1": 808,
+          "y1": 181,
+          "x2": 908,
+          "y2": 191
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    "lineItems": [
+      {
+        "description": {
+          "value": "Venue/ rental charges",
+          "bbox": {
+            "page": 1,
+            "x1": 121,
+            "y1": 583,
+            "x2": 284,
+            "y2": 597
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 535,
+            "y1": 583,
+            "x2": 546,
+            "y2": 597
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 400.0,
+          "bbox": {
+            "page": 1,
+            "x1": 657,
+            "y1": 583,
+            "x2": 709,
+            "y2": 597
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 400.0,
+          "bbox": {
+            "page": 1,
+            "x1": 872,
+            "y1": 583,
+            "x2": 923,
+            "y2": 597
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      }
+    ],
+    "isHumanReviewRequired": false,
+    "reviewReasons": []
+  },
+  {
+    "documentId": "digital_03_multipage.pdf",
+    "invoice": {
+      "invoiceNumber": {
+        "value": "0273",
+        "bbox": {
+          "page": 1,
+          "x1": 839,
+          "y1": 99,
+          "x2": 900,
+          "y2": 110
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "invoiceDate": {
+        "value": "27 FEBRUARY 2026",
+        "bbox": {
+          "page": 1,
+          "x1": 712,
+          "y1": 114,
+          "x2": 900,
+          "y2": 125
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "dueDate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierName": {
+        "value": "HAUS OF NOVA",
+        "bbox": {
+          "page": 1,
+          "x1": 100,
+          "y1": 165,
+          "x2": 205,
+          "y2": 175
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierAddress": {
+        "value": "88 SIN MING ROAD, #04-05 SIN MING INDUSTRIAL BUILDING SINGAPORE 573972",
+        "bbox": {
+          "page": 1,
+          "x1": 100,
+          "y1": 180,
+          "x2": 308,
+          "y2": 218
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "buyerName": {
+        "value": "JADE E-SERVICES SINGAPORE PTD LTD",
+        "bbox": {
+          "page": 1,
+          "x1": 693,
+          "y1": 175,
+          "x2": 900,
+          "y2": 202
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "buyerTaxId": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "currency": {
+        "value": "SGD",
+        "bbox": {
+          "page": 1,
+          "x1": 827,
+          "y1": 632,
+          "x2": 846,
+          "y2": 645
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "totalAmount": {
+        "value": 250.0,
+        "bbox": {
+          "page": 1,
+          "x1": 846,
+          "y1": 632,
+          "x2": 897,
+          "y2": 645
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "amountDue": {
+        "value": 250.0,
+        "bbox": {
+          "page": 1,
+          "x1": 846,
+          "y1": 632,
+          "x2": 897,
+          "y2": 645
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "paymentTerms": {
+        "value": "KINDLY MAKE PAYMENT USE INVOICE NUMBER AS REFERENCE NO",
+        "bbox": {
+          "page": 1,
+          "x1": 100,
+          "y1": 770,
+          "x2": 510,
+          "y2": 796
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "purchaseOrderNumber": {
+        "value": "5100038358",
+        "bbox": {
+          "page": 1,
+          "x1": 760,
+          "y1": 298,
+          "x2": 900,
+          "y2": 309
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    "lineItems": [
+      {
+        "description": {
+          "value": "FULL DAY PACKAGE",
+          "bbox": {
+            "page": 1,
+            "x1": 100,
+            "y1": 393,
+            "x2": 300,
+            "y2": 405
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 715,
+            "y1": 393,
+            "x2": 725,
+            "y2": 405
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 250.0,
+          "bbox": {
+            "page": 1,
+            "x1": 535,
+            "y1": 393,
+            "x2": 584,
+            "y2": 405
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 250.0,
+          "bbox": {
+            "page": 1,
+            "x1": 850,
+            "y1": 393,
+            "x2": 900,
+            "y2": 405
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      }
+    ],
+    "isHumanReviewRequired": false,
+    "reviewReasons": []
+  },
+  {
+    "documentId": "scanned_01.pdf",
+    "invoice": {
+      "invoiceNumber": {
+        "value": "0628329753",
+        "bbox": {
+          "page": 1,
+          "x1": 712,
+          "y1": 73,
+          "x2": 805,
+          "y2": 84
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "invoiceDate": {
+        "value": "03.09.2025",
+        "bbox": {
+          "page": 1,
+          "x1": 712,
+          "y1": 88,
+          "x2": 785,
+          "y2": 98
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "dueDate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierName": {
+        "value": "Singapore Beverages Pte. Ltd.",
+        "bbox": {
+          "page": 1,
+          "x1": 200,
+          "y1": 30,
+          "x2": 395,
+          "y2": 75
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierAddress": {
+        "value": "220B JURONG EAST STREET 21, #05-11 TRADEHUB 21, SINGAPORE 609601",
+        "bbox": {
+          "page": 1,
+          "x1": 303,
+          "y1": 978,
+          "x2": 560,
+          "y2": 988
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "buyerName": {
+        "value": "MILLIONAIRES TASTE PTE. LTD.",
+        "bbox": {
+          "page": 1,
+          "x1": 65,
+          "y1": 95,
+          "x2": 398,
+          "y2": 108
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "buyerTaxId": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "currency": {
+        "value": "SGD",
+        "bbox": {
+          "page": 1,
+          "x1": 788,
+          "y1": 305,
+          "x2": 816,
+          "y2": 317
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": 18.32,
+        "bbox": {
+          "page": 1,
+          "x1": 923,
+          "y1": 445,
+          "x2": 958,
+          "y2": 457
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "totalAmount": {
+        "value": 221.82,
+        "bbox": {
+          "page": 1,
+          "x1": 920,
+          "y1": 748,
+          "x2": 960,
+          "y2": 760
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "amountDue": {
+        "value": 221.82,
+        "bbox": {
+          "page": 1,
+          "x1": 920,
+          "y1": 748,
+          "x2": 960,
+          "y2": 760
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "paymentTerms": {
+        "value": "30 day from billing day",
+        "bbox": {
+          "page": 1,
+          "x1": 405,
+          "y1": 198,
+          "x2": 525,
+          "y2": 213
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "purchaseOrderNumber": {
+        "value": "0H8HE9L0",
+        "bbox": {
+          "page": 1,
+          "x1": 746,
+          "y1": 200,
+          "x2": 818,
+          "y2": 213
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    "lineItems": [
+      {
+        "description": {
+          "value": "320MLALSCN1X24 Aura SCSG",
+          "bbox": {
+            "page": 1,
+            "x1": 72,
+            "y1": 304,
+            "x2": 236,
+            "y2": 316
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 6.0,
+          "bbox": {
+            "page": 1,
+            "x1": 524,
+            "y1": 304,
+            "x2": 571,
+            "y2": 316
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 15.0,
+          "bbox": {
+            "page": 1,
+            "x1": 740,
+            "y1": 304,
+            "x2": 771,
+            "y2": 316
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": {
+            "page": 1,
+            "x1": 655,
+            "y1": 445,
+            "x2": 679,
+            "y2": 457
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 90.0,
+          "bbox": {
+            "page": 1,
+            "x1": 923,
+            "y1": 304,
+            "x2": 958,
+            "y2": 316
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "320MLALSCN1X24 Aura SCSG",
+          "bbox": {
+            "page": 1,
+            "x1": 72,
+            "y1": 322,
+            "x2": 236,
+            "y2": 334
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 524,
+            "y1": 322,
+            "x2": 571,
+            "y2": 334
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 0.0,
+          "bbox": {
+            "page": 1,
+            "x1": 740,
+            "y1": 322,
+            "x2": 771,
+            "y2": 334
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 0.0,
+          "bbox": {
+            "page": 1,
+            "x1": 923,
+            "y1": 322,
+            "x2": 958,
+            "y2": 334
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "320MLALSCN1X12 Zeta Gin Ale-KO UTT",
+          "bbox": {
+            "page": 1,
+            "x1": 72,
+            "y1": 340,
+            "x2": 280,
+            "y2": 352
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 4.0,
+          "bbox": {
+            "page": 1,
+            "x1": 524,
+            "y1": 340,
+            "x2": 571,
+            "y2": 352
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 9.5,
+          "bbox": {
+            "page": 1,
+            "x1": 740,
+            "y1": 340,
+            "x2": 771,
+            "y2": 352
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 38.0,
+          "bbox": {
+            "page": 1,
+            "x1": 923,
+            "y1": 340,
+            "x2": 958,
+            "y2": 352
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "320MLALSCN1X12 Zeta Tonic-KO UTT",
+          "bbox": {
+            "page": 1,
+            "x1": 72,
+            "y1": 358,
+            "x2": 273,
+            "y2": 370
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 4.0,
+          "bbox": {
+            "page": 1,
+            "x1": 524,
+            "y1": 358,
+            "x2": 571,
+            "y2": 370
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 9.5,
+          "bbox": {
+            "page": 1,
+            "x1": 740,
+            "y1": 358,
+            "x2": 771,
+            "y2": 370
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 38.0,
+          "bbox": {
+            "page": 1,
+            "x1": 923,
+            "y1": 358,
+            "x2": 958,
+            "y2": 370
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "320MLALSCN1X12 Zeta Soda Wtr-KO UTT",
+          "bbox": {
+            "page": 1,
+            "x1": 72,
+            "y1": 376,
+            "x2": 293,
+            "y2": 388
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 524,
+            "y1": 376,
+            "x2": 571,
+            "y2": 388
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 0.0,
+          "bbox": {
+            "page": 1,
+            "x1": 740,
+            "y1": 376,
+            "x2": 771,
+            "y2": 388
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 0.0,
+          "bbox": {
+            "page": 1,
+            "x1": 923,
+            "y1": 376,
+            "x2": 958,
+            "y2": 388
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "320MLALSCN1X12 AURA ZRO SGR UTCS",
+          "bbox": {
+            "page": 1,
+            "x1": 72,
+            "y1": 394,
+            "x2": 294,
+            "y2": 406
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 5.0,
+          "bbox": {
+            "page": 1,
+            "x1": 524,
+            "y1": 394,
+            "x2": 571,
+            "y2": 406
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 7.5,
+          "bbox": {
+            "page": 1,
+            "x1": 740,
+            "y1": 394,
+            "x2": 771,
+            "y2": 406
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 37.5,
+          "bbox": {
+            "page": 1,
+            "x1": 923,
+            "y1": 394,
+            "x2": 958,
+            "y2": 406
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      }
+    ],
+    "isHumanReviewRequired": false,
+    "reviewReasons": []
+  },
+  {
+    "documentId": "scanned_02.pdf",
+    "invoice": {
+      "invoiceNumber": {
+        "value": "INV25080553",
+        "bbox": {
+          "page": 1,
+          "x1": 717,
+          "y1": 61,
+          "x2": 805,
+          "y2": 72
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "invoiceDate": {
+        "value": "2/9/2025",
+        "bbox": {
+          "page": 1,
+          "x1": 717,
+          "y1": 75,
+          "x2": 775,
+          "y2": 86
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "dueDate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierName": {
+        "value": "Meridian Finefood Pte Ltd",
+        "bbox": {
+          "page": 1,
+          "x1": 60,
+          "y1": 52,
+          "x2": 258,
+          "y2": 70
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierAddress": {
+        "value": "88 Woodlands Industrial Park E7, #02-11 Woodlands East Hub, Singapore 757317",
+        "bbox": {
+          "page": 1,
+          "x1": 60,
+          "y1": 73,
+          "x2": 386,
+          "y2": 91
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "buyerName": {
+        "value": "Millionaires Taste Pte Ltd",
+        "bbox": {
+          "page": 1,
+          "x1": 104,
+          "y1": 161,
+          "x2": 260,
+          "y2": 172
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "buyerTaxId": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "currency": {
+        "value": "SGD",
+        "bbox": {
+          "page": 1,
+          "x1": 868,
+          "y1": 330,
+          "x2": 890,
+          "y2": 342
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": 39.15,
+        "bbox": {
+          "page": 1,
+          "x1": 871,
+          "y1": 681,
+          "x2": 914,
+          "y2": 693
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "totalAmount": {
+        "value": 474.15,
+        "bbox": {
+          "page": 1,
+          "x1": 857,
+          "y1": 702,
+          "x2": 914,
+          "y2": 715
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "amountDue": {
+        "value": 474.15,
+        "bbox": {
+          "page": 1,
+          "x1": 857,
+          "y1": 702,
+          "x2": 914,
+          "y2": 715
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "paymentTerms": {
+        "value": "Net 30 days",
+        "bbox": {
+          "page": 1,
+          "x1": 717,
+          "y1": 130,
+          "x2": 790,
+          "y2": 141
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "purchaseOrderNumber": {
+        "value": "T-WRIOD0JK",
+        "bbox": {
+          "page": 1,
+          "x1": 284,
+          "y1": 286,
+          "x2": 379,
+          "y2": 298
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    "lineItems": [
+      {
+        "description": {
+          "value": "Illy Coffee Bean CLASSIC Roast 3kg (Ctn x 2 Unit)",
+          "bbox": {
+            "page": 1,
+            "x1": 192,
+            "y1": 348,
+            "x2": 551,
+            "y2": 364
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 612,
+            "y1": 348,
+            "x2": 622,
+            "y2": 364
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 195.0,
+          "bbox": {
+            "page": 1,
+            "x1": 744,
+            "y1": 348,
+            "x2": 791,
+            "y2": 364
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": {
+            "page": 1,
+            "x1": 748,
+            "y1": 681,
+            "x2": 774,
+            "y2": 693
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 195.0,
+          "bbox": {
+            "page": 1,
+            "x1": 868,
+            "y1": 348,
+            "x2": 914,
+            "y2": 364
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "Illy Coffee Bean DECAF (Blue) 250gm (Ctn x 12 Unit)",
+          "bbox": {
+            "page": 1,
+            "x1": 192,
+            "y1": 382,
+            "x2": 571,
+            "y2": 398
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 6.0,
+          "bbox": {
+            "page": 1,
+            "x1": 612,
+            "y1": 382,
+            "x2": 622,
+            "y2": 398
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 18.0,
+          "bbox": {
+            "page": 1,
+            "x1": 751,
+            "y1": 382,
+            "x2": 791,
+            "y2": 398
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 108.0,
+          "bbox": {
+            "page": 1,
+            "x1": 868,
+            "y1": 382,
+            "x2": 914,
+            "y2": 398
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "Caotina Swiss PRONTO Chocolate Powder 1kg (Ctn x 6 Unit)",
+          "bbox": {
+            "page": 1,
+            "x1": 192,
+            "y1": 412,
+            "x2": 580,
+            "y2": 440
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 6.0,
+          "bbox": {
+            "page": 1,
+            "x1": 612,
+            "y1": 412,
+            "x2": 622,
+            "y2": 428
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 22.0,
+          "bbox": {
+            "page": 1,
+            "x1": 751,
+            "y1": 412,
+            "x2": 791,
+            "y2": 428
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 132.0,
+          "bbox": {
+            "page": 1,
+            "x1": 868,
+            "y1": 412,
+            "x2": 914,
+            "y2": 428
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      }
+    ],
+    "isHumanReviewRequired": false,
+    "reviewReasons": []
+  },
+  {
+    "documentId": "scanned_03_mj_wines.pdf",
+    "invoice": {
+      "invoiceNumber": {
+        "value": "INV5436SP",
+        "bbox": {
+          "page": 1,
+          "x1": 785,
+          "y1": 124,
+          "x2": 860,
+          "y2": 135
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "invoiceDate": {
+        "value": "11/09/2025",
+        "bbox": {
+          "page": 1,
+          "x1": 746,
+          "y1": 137,
+          "x2": 814,
+          "y2": 147
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "dueDate": {
+        "value": "11/10/2025",
+        "bbox": {
+          "page": 1,
+          "x1": 733,
+          "y1": 148,
+          "x2": 798,
+          "y2": 158
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierName": {
+        "value": "VANTAGE CELLARS INTERNATIONAL PTE. LTD.",
+        "bbox": {
+          "page": 1,
+          "x1": 604,
+          "y1": 7,
+          "x2": 963,
+          "y2": 18
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierAddress": {
+        "value": "88 Playfair Road, #06-03, Singapore, 367977",
+        "bbox": {
+          "page": 1,
+          "x1": 604,
+          "y1": 23,
+          "x2": 985,
+          "y2": 35
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "buyerName": {
+        "value": "Millionaires Taste Pte. Ltd. (Reverie Live Music)",
+        "bbox": {
+          "page": 1,
+          "x1": 48,
+          "y1": 134,
+          "x2": 304,
+          "y2": 145
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "buyerTaxId": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "currency": {
+        "value": "SGD",
+        "bbox": {
+          "page": 1,
+          "x1": 906,
+          "y1": 227,
+          "x2": 923,
+          "y2": 237
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": 51.48,
+        "bbox": {
+          "page": 1,
+          "x1": 918,
+          "y1": 382,
+          "x2": 955,
+          "y2": 393
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "totalAmount": {
+        "value": 623.48,
+        "bbox": {
+          "page": 1,
+          "x1": 918,
+          "y1": 399,
+          "x2": 957,
+          "y2": 410
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "amountDue": {
+        "value": 623.48,
+        "bbox": {
+          "page": 1,
+          "x1": 918,
+          "y1": 399,
+          "x2": 957,
+          "y2": 410
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "paymentTerms": {
+        "value": "30 Days",
+        "bbox": {
+          "page": 1,
+          "x1": 768,
+          "y1": 172,
+          "x2": 813,
+          "y2": 182
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "purchaseOrderNumber": {
+        "value": "I7LTY6EV",
+        "bbox": {
+          "page": 1,
+          "x1": 789,
+          "y1": 160,
+          "x2": 844,
+          "y2": 170
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    "lineItems": [
+      {
+        "description": {
+          "value": "Amicale Rosso Veneto IGT Red Wine 750ml",
+          "bbox": {
+            "page": 1,
+            "x1": 263,
+            "y1": 227,
+            "x2": 496,
+            "y2": 238
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 4.0,
+          "bbox": {
+            "page": 1,
+            "x1": 579,
+            "y1": 227,
+            "x2": 605,
+            "y2": 238
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 25.0,
+          "bbox": {
+            "page": 1,
+            "x1": 718,
+            "y1": 227,
+            "x2": 753,
+            "y2": 238
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": {
+            "page": 1,
+            "x1": 690,
+            "y1": 382,
+            "x2": 705,
+            "y2": 393
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 100.0,
+          "bbox": {
+            "page": 1,
+            "x1": 923,
+            "y1": 227,
+            "x2": 961,
+            "y2": 238
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "Flavabom Vine Dried Shiraz Red Wine 750ml",
+          "bbox": {
+            "page": 1,
+            "x1": 263,
+            "y1": 263,
+            "x2": 498,
+            "y2": 274
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 4.0,
+          "bbox": {
+            "page": 1,
+            "x1": 579,
+            "y1": 263,
+            "x2": 605,
+            "y2": 274
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 38.0,
+          "bbox": {
+            "page": 1,
+            "x1": 718,
+            "y1": 263,
+            "x2": 753,
+            "y2": 274
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 152.0,
+          "bbox": {
+            "page": 1,
+            "x1": 923,
+            "y1": 263,
+            "x2": 961,
+            "y2": 274
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "Lluvia De Flores Sauvignon Blanc White Wine 375ml",
+          "bbox": {
+            "page": 1,
+            "x1": 242,
+            "y1": 298,
+            "x2": 520,
+            "y2": 310
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 12.0,
+          "bbox": {
+            "page": 1,
+            "x1": 575,
+            "y1": 298,
+            "x2": 608,
+            "y2": 310
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 20.0,
+          "bbox": {
+            "page": 1,
+            "x1": 718,
+            "y1": 298,
+            "x2": 753,
+            "y2": 310
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 240.0,
+          "bbox": {
+            "page": 1,
+            "x1": 923,
+            "y1": 298,
+            "x2": 961,
+            "y2": 310
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "Silterra Prosecco Spumante DOC Extra Dry Sparkling Wine 750ml",
+          "bbox": {
+            "page": 1,
+            "x1": 241,
+            "y1": 328,
+            "x2": 520,
+            "y2": 352
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 4.0,
+          "bbox": {
+            "page": 1,
+            "x1": 579,
+            "y1": 328,
+            "x2": 605,
+            "y2": 340
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 20.0,
+          "bbox": {
+            "page": 1,
+            "x1": 718,
+            "y1": 328,
+            "x2": 753,
+            "y2": 340
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 80.0,
+          "bbox": {
+            "page": 1,
+            "x1": 927,
+            "y1": 328,
+            "x2": 958,
+            "y2": 340
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      }
+    ],
+    "isHumanReviewRequired": false,
+    "reviewReasons": []
+  },
+  {
+    "documentId": "handwritten_02_patricia_gapay.pdf",
+    "invoice": {
+      "invoiceNumber": {
+        "value": "0043",
+        "bbox": {
+          "page": 1,
+          "x1": 888,
+          "y1": 373,
+          "x2": 963,
+          "y2": 395
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "invoiceDate": {
+        "value": "NOVEMBER 23, 2025",
+        "bbox": {
+          "page": 1,
+          "x1": 751,
+          "y1": 408,
+          "x2": 947,
+          "y2": 425
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "dueDate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierName": {
+        "value": "MARILOU S. REYES",
+        "bbox": {
+          "page": 1,
+          "x1": 472,
+          "y1": 317,
+          "x2": 723,
+          "y2": 334
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierAddress": {
+        "value": "22 M. Santos Street Signal Village Western Bicutan 1632 Taguig City NCR Fourth District Philippines",
+        "bbox": {
+          "page": 1,
+          "x1": 427,
+          "y1": 352,
+          "x2": 838,
+          "y2": 361
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "buyerName": {
+        "value": "BF JADE E-SERVICES PHILIPPINES INC.",
+        "bbox": {
+          "page": 1,
+          "x1": 462,
+          "y1": 426,
+          "x2": 808,
+          "y2": 442
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "buyerTaxId": {
+        "value": "008-183-175",
+        "bbox": {
+          "page": 1,
+          "x1": 405,
+          "y1": 444,
+          "x2": 519,
+          "y2": 457
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "currency": {
+        "value": "PHP",
+        "bbox": {
+          "page": 1,
+          "x1": 191,
+          "y1": 480,
+          "x2": 205,
+          "y2": 494
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "taxAmount": {
+        "value": 789.47,
+        "bbox": {
+          "page": 1,
+          "x1": 204,
+          "y1": 464,
+          "x2": 279,
+          "y2": 478
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "totalAmount": {
+        "value": 15000.0,
+        "bbox": {
+          "page": 1,
+          "x1": 205,
+          "y1": 480,
+          "x2": 277,
+          "y2": 494
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "amountDue": {
+        "value": 15000.0,
+        "bbox": {
+          "page": 1,
+          "x1": 205,
+          "y1": 480,
+          "x2": 277,
+          "y2": 494
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "paymentTerms": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "purchaseOrderNumber": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    "lineItems": [
+      {
+        "description": {
+          "value": "partial payment for ZALORA 10-10",
+          "bbox": {
+            "page": 1,
+            "x1": 630,
+            "y1": 519,
+            "x2": 914,
+            "y2": 535
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 15000.0,
+          "bbox": {
+            "page": 1,
+            "x1": 380,
+            "y1": 519,
+            "x2": 445,
+            "y2": 535
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": 789.47,
+          "bbox": {
+            "page": 1,
+            "x1": 204,
+            "y1": 464,
+            "x2": 279,
+            "y2": 478
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "lineAmount": {
+          "value": 15000.0,
+          "bbox": {
+            "page": 1,
+            "x1": 380,
+            "y1": 519,
+            "x2": 445,
+            "y2": 535
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        }
+      }
+    ],
+    "isHumanReviewRequired": true,
+    "reviewReasons": [
+      "LOW_CONFIDENCE"
+    ]
+  },
+  {
+    "documentId": "handwritten_03_filling_station.pdf",
+    "invoice": {
+      "invoiceNumber": {
+        "value": "29769",
+        "bbox": {
+          "page": 1,
+          "x1": 579,
+          "y1": 150,
+          "x2": 646,
+          "y2": 171
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "invoiceDate": {
+        "value": "Nov 7 2025",
+        "bbox": {
+          "page": 1,
+          "x1": 554,
+          "y1": 187,
+          "x2": 627,
+          "y2": 203
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "dueDate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierName": {
+        "value": "AMBER LANE BAR-CAFÉ",
+        "bbox": {
+          "page": 1,
+          "x1": 317,
+          "y1": 53,
+          "x2": 588,
+          "y2": 74
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierAddress": {
+        "value": "3087 J. Nakpil St. Poblacion 1207 City of Makati NCR Fourth District Philippines",
+        "bbox": {
+          "page": 1,
+          "x1": 317,
+          "y1": 142,
+          "x2": 540,
+          "y2": 152
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "buyerName": {
+        "value": "BF JADE E SERVICES PHILS INC",
+        "bbox": {
+          "page": 1,
+          "x1": 433,
+          "y1": 247,
+          "x2": 631,
+          "y2": 263
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "buyerTaxId": {
+        "value": "008-183-175-000",
+        "bbox": {
+          "page": 1,
+          "x1": 437,
+          "y1": 265,
+          "x2": 563,
+          "y2": 280
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "currency": {
+        "value": "PHP",
+        "bbox": null,
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "taxAmount": {
+        "value": 523.71,
+        "bbox": {
+          "page": 1,
+          "x1": 418,
+          "y1": 647,
+          "x2": 469,
+          "y2": 662
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "totalAmount": {
+        "value": 5324.43,
+        "bbox": {
+          "page": 1,
+          "x1": 578,
+          "y1": 792,
+          "x2": 637,
+          "y2": 809
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "amountDue": {
+        "value": 5324.43,
+        "bbox": {
+          "page": 1,
+          "x1": 578,
+          "y1": 792,
+          "x2": 637,
+          "y2": 809
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "paymentTerms": {
+        "value": "CHARGE SALES",
+        "bbox": {
+          "page": 1,
+          "x1": 361,
+          "y1": 194,
+          "x2": 454,
+          "y2": 206
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "purchaseOrderNumber": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    "lineItems": [
+      {
+        "description": {
+          "value": "CALI BACON PIZZA",
+          "bbox": {
+            "page": 1,
+            "x1": 350,
+            "y1": 379,
+            "x2": 469,
+            "y2": 395
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 497,
+            "y1": 379,
+            "x2": 508,
+            "y2": 395
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "unitPrice": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 628.0,
+          "bbox": {
+            "page": 1,
+            "x1": 593,
+            "y1": 379,
+            "x2": 619,
+            "y2": 395
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        }
+      },
+      {
+        "description": {
+          "value": "T-BIRD",
+          "bbox": {
+            "page": 1,
+            "x1": 373,
+            "y1": 405,
+            "x2": 427,
+            "y2": 420
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "quantity": {
+          "value": 2.0,
+          "bbox": {
+            "page": 1,
+            "x1": 497,
+            "y1": 405,
+            "x2": 508,
+            "y2": 420
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "unitPrice": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 1596.0,
+          "bbox": {
+            "page": 1,
+            "x1": 590,
+            "y1": 405,
+            "x2": 625,
+            "y2": 420
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        }
+      },
+      {
+        "description": {
+          "value": "PLAIN RICE",
+          "bbox": {
+            "page": 1,
+            "x1": 361,
+            "y1": 432,
+            "x2": 437,
+            "y2": 447
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "quantity": {
+          "value": 9.0,
+          "bbox": {
+            "page": 1,
+            "x1": 497,
+            "y1": 432,
+            "x2": 508,
+            "y2": 447
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "unitPrice": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 405.0,
+          "bbox": {
+            "page": 1,
+            "x1": 593,
+            "y1": 432,
+            "x2": 622,
+            "y2": 447
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        }
+      },
+      {
+        "description": {
+          "value": "LASAGNA",
+          "bbox": {
+            "page": 1,
+            "x1": 364,
+            "y1": 458,
+            "x2": 427,
+            "y2": 472
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "quantity": {
+          "value": 2.0,
+          "bbox": {
+            "page": 1,
+            "x1": 497,
+            "y1": 458,
+            "x2": 508,
+            "y2": 472
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "unitPrice": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 1196.0,
+          "bbox": {
+            "page": 1,
+            "x1": 593,
+            "y1": 458,
+            "x2": 622,
+            "y2": 472
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        }
+      },
+      {
+        "description": {
+          "value": "NACHOS",
+          "bbox": {
+            "page": 1,
+            "x1": 366,
+            "y1": 484,
+            "x2": 424,
+            "y2": 499
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 497,
+            "y1": 484,
+            "x2": 508,
+            "y2": 499
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "unitPrice": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 595.0,
+          "bbox": {
+            "page": 1,
+            "x1": 593,
+            "y1": 484,
+            "x2": 622,
+            "y2": 499
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        }
+      },
+      {
+        "description": {
+          "value": "ONION RINGS",
+          "bbox": {
+            "page": 1,
+            "x1": 354,
+            "y1": 511,
+            "x2": 442,
+            "y2": 526
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 497,
+            "y1": 511,
+            "x2": 508,
+            "y2": 526
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "unitPrice": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 248.0,
+          "bbox": {
+            "page": 1,
+            "x1": 593,
+            "y1": 511,
+            "x2": 622,
+            "y2": 526
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        }
+      },
+      {
+        "description": {
+          "value": "CAKE FOR ALL SEASON",
+          "bbox": {
+            "page": 1,
+            "x1": 349,
+            "y1": 538,
+            "x2": 471,
+            "y2": 553
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 497,
+            "y1": 538,
+            "x2": 508,
+            "y2": 553
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "unitPrice": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 220.0,
+          "bbox": {
+            "page": 1,
+            "x1": 598,
+            "y1": 538,
+            "x2": 627,
+            "y2": 553
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        }
+      }
+    ],
+    "isHumanReviewRequired": true,
+    "reviewReasons": [
+      "LOW_CONFIDENCE"
+    ]
+  },
+  {
+    "documentId": "handwritten_04_charismalico.pdf",
+    "invoice": {
+      "invoiceNumber": {
+        "value": "0116",
+        "bbox": {
+          "page": 1,
+          "x1": 859,
+          "y1": 172,
+          "x2": 932,
+          "y2": 202
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "invoiceDate": {
+        "value": "OCTOBER 07, 2025",
+        "bbox": {
+          "page": 1,
+          "x1": 777,
+          "y1": 263,
+          "x2": 897,
+          "y2": 282
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "dueDate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierName": {
+        "value": "RENZ ADRIAN P. CORTEZ PHOTOGRAPHY SERVICES",
+        "bbox": {
+          "page": 1,
+          "x1": 410,
+          "y1": 122,
+          "x2": 569,
+          "y2": 130
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierAddress": {
+        "value": "7 Kalayaan St. Vista Verde Subd. San Roque (Pob.) Antipolo City Rizal",
+        "bbox": {
+          "page": 1,
+          "x1": 454,
+          "y1": 160,
+          "x2": 593,
+          "y2": 167
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "buyerName": {
+        "value": "BF JADE E-SERVICES PHILIPPINES INC.",
+        "bbox": {
+          "page": 1,
+          "x1": 128,
+          "y1": 265,
+          "x2": 430,
+          "y2": 284
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "buyerTaxId": {
+        "value": "008-183-175",
+        "bbox": {
+          "page": 1,
+          "x1": 777,
+          "y1": 312,
+          "x2": 858,
+          "y2": 329
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "currency": {
+        "value": "PHP",
+        "bbox": null,
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "taxAmount": {
+        "value": 24000.0,
+        "bbox": {
+          "page": 1,
+          "x1": 861,
+          "y1": 423,
+          "x2": 944,
+          "y2": 440
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "totalAmount": {
+        "value": 204000.0,
+        "bbox": {
+          "page": 1,
+          "x1": 861,
+          "y1": 597,
+          "x2": 951,
+          "y2": 616
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "amountDue": {
+        "value": 180000.0,
+        "bbox": {
+          "page": 1,
+          "x1": 863,
+          "y1": 526,
+          "x2": 950,
+          "y2": 544
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "paymentTerms": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "purchaseOrderNumber": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    "lineItems": [
+      {
+        "description": {
+          "value": "PD - ZALORA 10.10 & 11.11",
+          "bbox": {
+            "page": 1,
+            "x1": 90,
+            "y1": 468,
+            "x2": 326,
+            "y2": 503
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 504,
+            "y1": 468,
+            "x2": 515,
+            "y2": 490
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "unitPrice": {
+          "value": 204000.0,
+          "bbox": null,
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": 24000.0,
+          "bbox": {
+            "page": 1,
+            "x1": 861,
+            "y1": 423,
+            "x2": 944,
+            "y2": 440
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "lineAmount": {
+          "value": 204000.0,
+          "bbox": {
+            "page": 1,
+            "x1": 605,
+            "y1": 464,
+            "x2": 703,
+            "y2": 482
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        }
+      }
+    ],
+    "isHumanReviewRequired": true,
+    "reviewReasons": [
+      "LOW_CONFIDENCE"
+    ]
+  },
+  {
+    "documentId": "handwritten_06_laureen_uy.pdf",
+    "invoice": {
+      "invoiceNumber": {
+        "value": "0174",
+        "bbox": {
+          "page": 1,
+          "x1": 844,
+          "y1": 197,
+          "x2": 906,
+          "y2": 228
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "invoiceDate": {
+        "value": "MARCH 05 2026",
+        "bbox": {
+          "page": 1,
+          "x1": 777,
+          "y1": 312,
+          "x2": 947,
+          "y2": 334
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "dueDate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierName": {
+        "value": "DEANNA RUTH F. MARASIGAN MARKETING SERVICES, OPC",
+        "bbox": {
+          "page": 1,
+          "x1": 398,
+          "y1": 99,
+          "x2": 855,
+          "y2": 120
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierAddress": {
+        "value": "No. 82 Mother Ignacia Street, Laging Handa, 1103 Quezon City 00002 NCR, Second District, Philippines",
+        "bbox": {
+          "page": 1,
+          "x1": 448,
+          "y1": 140,
+          "x2": 794,
+          "y2": 158
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "buyerName": {
+        "value": "BF JADE E-SERVICES PHILIPPINES INC",
+        "bbox": {
+          "page": 1,
+          "x1": 403,
+          "y1": 360,
+          "x2": 740,
+          "y2": 382
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "buyerTaxId": {
+        "value": "008-183-175",
+        "bbox": {
+          "page": 1,
+          "x1": 371,
+          "y1": 468,
+          "x2": 497,
+          "y2": 490
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "currency": {
+        "value": "PHP",
+        "bbox": {
+          "page": 1,
+          "x1": 167,
+          "y1": 227,
+          "x2": 177,
+          "y2": 242
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "taxAmount": {
+        "value": 18352.94,
+        "bbox": {
+          "page": 1,
+          "x1": 184,
+          "y1": 250,
+          "x2": 281,
+          "y2": 268
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "totalAmount": {
+        "value": 148352.94,
+        "bbox": {
+          "page": 1,
+          "x1": 819,
+          "y1": 574,
+          "x2": 943,
+          "y2": 597
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "amountDue": {
+        "value": 148352.94,
+        "bbox": {
+          "page": 1,
+          "x1": 184,
+          "y1": 403,
+          "x2": 281,
+          "y2": 423
+        },
+        "isHumanReviewRequired": true,
+        "reviewReasons": [
+          "LOW_CONFIDENCE"
+        ]
+      },
+      "paymentTerms": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "purchaseOrderNumber": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    "lineItems": [
+      {
+        "description": {
+          "value": "ZALORA BIRTHDAY SALE",
+          "bbox": {
+            "page": 1,
+            "x1": 466,
+            "y1": 634,
+            "x2": 703,
+            "y2": 662
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 148352.94,
+          "bbox": null,
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": 18352.94,
+          "bbox": {
+            "page": 1,
+            "x1": 184,
+            "y1": 250,
+            "x2": 281,
+            "y2": 268
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        },
+        "lineAmount": {
+          "value": 148352.94,
+          "bbox": {
+            "page": 1,
+            "x1": 819,
+            "y1": 574,
+            "x2": 943,
+            "y2": 597
+          },
+          "isHumanReviewRequired": true,
+          "reviewReasons": [
+            "LOW_CONFIDENCE"
+          ]
+        }
+      }
+    ],
+    "isHumanReviewRequired": true,
+    "reviewReasons": [
+      "LOW_CONFIDENCE"
+    ]
+  },
+  {
+    "documentId": "multilingual_01_hongkong.pdf",
+    "invoice": {
+      "invoiceNumber": {
+        "value": "2272448431",
+        "bbox": {
+          "page": 1,
+          "x1": 223,
+          "y1": 226,
+          "x2": 334,
+          "y2": 236
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "invoiceDate": {
+        "value": "28/02/2026",
+        "bbox": {
+          "page": 1,
+          "x1": 126,
+          "y1": 270,
+          "x2": 195,
+          "y2": 281
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "dueDate": {
+        "value": "31/03/2026",
+        "bbox": {
+          "page": 1,
+          "x1": 344,
+          "y1": 270,
+          "x2": 412,
+          "y2": 281
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierName": {
+        "value": "NEXTRA (HONG KONG) COMPANY LTD.",
+        "bbox": {
+          "page": 1,
+          "x1": 30,
+          "y1": 86,
+          "x2": 219,
+          "y2": 95
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierAddress": {
+        "value": "22nd Floor, 15 Wang Chiu Road, Kowloon Bay, Kowloon HONG KONG",
+        "bbox": {
+          "page": 1,
+          "x1": 30,
+          "y1": 96,
+          "x2": 287,
+          "y2": 113
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "buyerName": {
+        "value": "ZALORA (HONG KONG) LIMITED",
+        "bbox": {
+          "page": 1,
+          "x1": 501,
+          "y1": 178,
+          "x2": 704,
+          "y2": 188
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "buyerTaxId": {
+        "value": "59415254-001-02-19-0",
+        "bbox": {
+          "page": 1,
+          "x1": 283,
+          "y1": 202,
+          "x2": 422,
+          "y2": 213
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "currency": {
+        "value": "HKD",
+        "bbox": {
+          "page": 1,
+          "x1": 681,
+          "y1": 902,
+          "x2": 712,
+          "y2": 914
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": 0.0,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "totalAmount": {
+        "value": 1159.3,
+        "bbox": {
+          "page": 1,
+          "x1": 902,
+          "y1": 857,
+          "x2": 963,
+          "y2": 868
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "amountDue": {
+        "value": 1159.3,
+        "bbox": {
+          "page": 1,
+          "x1": 902,
+          "y1": 902,
+          "x2": 963,
+          "y2": 914
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "paymentTerms": {
+        "value": "31/03/2026",
+        "bbox": {
+          "page": 1,
+          "x1": 344,
+          "y1": 270,
+          "x2": 412,
+          "y2": 281
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "purchaseOrderNumber": {
+        "value": "5100038208",
+        "bbox": {
+          "page": 1,
+          "x1": 574,
+          "y1": 411,
+          "x2": 661,
+          "y2": 421
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    "lineItems": [
+      {
+        "description": {
+          "value": "BX100 CANCARE ALCOHOL PREPS",
+          "bbox": {
+            "page": 1,
+            "x1": 204,
+            "y1": 444,
+            "x2": 420,
+            "y2": 454
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 188,
+            "y1": 444,
+            "x2": 194,
+            "y2": 454
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 18.7,
+          "bbox": {
+            "page": 1,
+            "x1": 772,
+            "y1": 444,
+            "x2": 809,
+            "y2": 454
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 18.7,
+          "bbox": {
+            "page": 1,
+            "x1": 888,
+            "y1": 444,
+            "x2": 924,
+            "y2": 454
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "BX25 BANITORE PLASTER CLEAR",
+          "bbox": {
+            "page": 1,
+            "x1": 204,
+            "y1": 459,
+            "x2": 414,
+            "y2": 469
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 188,
+            "y1": 459,
+            "x2": 194,
+            "y2": 469
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 17.5,
+          "bbox": {
+            "page": 1,
+            "x1": 772,
+            "y1": 459,
+            "x2": 809,
+            "y2": 469
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 17.5,
+          "bbox": {
+            "page": 1,
+            "x1": 888,
+            "y1": 459,
+            "x2": 924,
+            "y2": 469
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "PACKAGING CLOTH 2\"X10YDS BLU",
+          "bbox": {
+            "page": 1,
+            "x1": 204,
+            "y1": 474,
+            "x2": 425,
+            "y2": 484
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 188,
+            "y1": 474,
+            "x2": 194,
+            "y2": 484
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 15.6,
+          "bbox": {
+            "page": 1,
+            "x1": 772,
+            "y1": 474,
+            "x2": 809,
+            "y2": 484
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 15.6,
+          "bbox": {
+            "page": 1,
+            "x1": 888,
+            "y1": 474,
+            "x2": 924,
+            "y2": 484
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "PACKAGING CLOTH 2\"X10YDS YLLW",
+          "bbox": {
+            "page": 1,
+            "x1": 204,
+            "y1": 489,
+            "x2": 435,
+            "y2": 499
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 4.0,
+          "bbox": {
+            "page": 1,
+            "x1": 188,
+            "y1": 489,
+            "x2": 194,
+            "y2": 499
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 15.6,
+          "bbox": {
+            "page": 1,
+            "x1": 772,
+            "y1": 489,
+            "x2": 809,
+            "y2": 499
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 62.4,
+          "bbox": {
+            "page": 1,
+            "x1": 888,
+            "y1": 489,
+            "x2": 924,
+            "y2": 499
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "PACKAGING CLOTH 2\"X10YDS RED",
+          "bbox": {
+            "page": 1,
+            "x1": 204,
+            "y1": 504,
+            "x2": 427,
+            "y2": 514
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 2.0,
+          "bbox": {
+            "page": 1,
+            "x1": 188,
+            "y1": 504,
+            "x2": 194,
+            "y2": 514
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 15.6,
+          "bbox": {
+            "page": 1,
+            "x1": 772,
+            "y1": 504,
+            "x2": 809,
+            "y2": 514
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 31.2,
+          "bbox": {
+            "page": 1,
+            "x1": 888,
+            "y1": 504,
+            "x2": 924,
+            "y2": 514
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "PANFIX ADHESIVE TAPE 3/4\"X72YDS",
+          "bbox": {
+            "page": 1,
+            "x1": 204,
+            "y1": 519,
+            "x2": 435,
+            "y2": 529
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 16.0,
+          "bbox": {
+            "page": 1,
+            "x1": 181,
+            "y1": 519,
+            "x2": 194,
+            "y2": 529
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 25.1,
+          "bbox": {
+            "page": 1,
+            "x1": 772,
+            "y1": 519,
+            "x2": 809,
+            "y2": 529
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 401.6,
+          "bbox": {
+            "page": 1,
+            "x1": 881,
+            "y1": 519,
+            "x2": 924,
+            "y2": 529
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "PANFIX ADHESIVE TAPE 3/4\"X36YDS",
+          "bbox": {
+            "page": 1,
+            "x1": 204,
+            "y1": 534,
+            "x2": 435,
+            "y2": 544
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 16.0,
+          "bbox": {
+            "page": 1,
+            "x1": 181,
+            "y1": 534,
+            "x2": 194,
+            "y2": 544
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 13.0,
+          "bbox": {
+            "page": 1,
+            "x1": 772,
+            "y1": 534,
+            "x2": 809,
+            "y2": 544
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 208.0,
+          "bbox": {
+            "page": 1,
+            "x1": 881,
+            "y1": 534,
+            "x2": 924,
+            "y2": 544
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "PK3 WALCH LIQ SOAP MOIST W.REF 450ML",
+          "bbox": {
+            "page": 1,
+            "x1": 204,
+            "y1": 549,
+            "x2": 474,
+            "y2": 559
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 188,
+            "y1": 549,
+            "x2": 194,
+            "y2": 559
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 89.6,
+          "bbox": {
+            "page": 1,
+            "x1": 772,
+            "y1": 549,
+            "x2": 809,
+            "y2": 559
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 89.6,
+          "bbox": {
+            "page": 1,
+            "x1": 888,
+            "y1": 549,
+            "x2": 924,
+            "y2": 559
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "PK100 PLASTIC LITTER BAG 24\"X24\"10MI WH",
+          "bbox": {
+            "page": 1,
+            "x1": 204,
+            "y1": 564,
+            "x2": 487,
+            "y2": 574
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 188,
+            "y1": 564,
+            "x2": 194,
+            "y2": 574
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 35.1,
+          "bbox": {
+            "page": 1,
+            "x1": 772,
+            "y1": 564,
+            "x2": 809,
+            "y2": 574
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 35.1,
+          "bbox": {
+            "page": 1,
+            "x1": 888,
+            "y1": 564,
+            "x2": 924,
+            "y2": 574
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "PK10 VIRJOY BATHROOM TISSUE 3PLY YELLOW",
+          "bbox": {
+            "page": 1,
+            "x1": 204,
+            "y1": 579,
+            "x2": 505,
+            "y2": 589
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 2.0,
+          "bbox": {
+            "page": 1,
+            "x1": 188,
+            "y1": 579,
+            "x2": 194,
+            "y2": 589
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 39.6,
+          "bbox": {
+            "page": 1,
+            "x1": 772,
+            "y1": 579,
+            "x2": 809,
+            "y2": 589
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 79.2,
+          "bbox": {
+            "page": 1,
+            "x1": 888,
+            "y1": 579,
+            "x2": 924,
+            "y2": 589
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "PK85 SCOTCH-BRITE 857HK DISINFECT WIPE",
+          "bbox": {
+            "page": 1,
+            "x1": 204,
+            "y1": 594,
+            "x2": 487,
+            "y2": 604
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 2.0,
+          "bbox": {
+            "page": 1,
+            "x1": 188,
+            "y1": 594,
+            "x2": 194,
+            "y2": 604
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 56.0,
+          "bbox": {
+            "page": 1,
+            "x1": 772,
+            "y1": 594,
+            "x2": 809,
+            "y2": 604
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 112.0,
+          "bbox": {
+            "page": 1,
+            "x1": 881,
+            "y1": 594,
+            "x2": 924,
+            "y2": 604
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "PK5 VIRJOY 2PLY FACIAL TISSUE RED 130SHT",
+          "bbox": {
+            "page": 1,
+            "x1": 204,
+            "y1": 609,
+            "x2": 487,
+            "y2": 619
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 188,
+            "y1": 609,
+            "x2": 194,
+            "y2": 619
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 32.9,
+          "bbox": {
+            "page": 1,
+            "x1": 772,
+            "y1": 609,
+            "x2": 809,
+            "y2": 619
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 32.9,
+          "bbox": {
+            "page": 1,
+            "x1": 888,
+            "y1": 609,
+            "x2": 924,
+            "y2": 619
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "PK250 FAVOUR M-FOLD PAPER FSC",
+          "bbox": {
+            "page": 1,
+            "x1": 204,
+            "y1": 624,
+            "x2": 427,
+            "y2": 634
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 3.0,
+          "bbox": {
+            "page": 1,
+            "x1": 188,
+            "y1": 624,
+            "x2": 194,
+            "y2": 634
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 18.5,
+          "bbox": {
+            "page": 1,
+            "x1": 772,
+            "y1": 624,
+            "x2": 809,
+            "y2": 634
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 55.5,
+          "bbox": {
+            "page": 1,
+            "x1": 888,
+            "y1": 624,
+            "x2": 924,
+            "y2": 634
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "PK6 COCA-COLA MINI CAN 200ML",
+          "bbox": {
+            "page": 1,
+            "x1": 204,
+            "y1": 687,
+            "x2": 420,
+            "y2": 697
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 188,
+            "y1": 687,
+            "x2": 194,
+            "y2": 697
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 0.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 0.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      }
+    ],
+    "isHumanReviewRequired": false,
+    "reviewReasons": []
+  },
+  {
+    "documentId": "multilingual_02_vietnam.pdf",
+    "invoice": {
+      "invoiceNumber": {
+        "value": "00000114",
+        "bbox": {
+          "page": 1,
+          "x1": 770,
+          "y1": 216,
+          "x2": 855,
+          "y2": 228
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "invoiceDate": {
+        "value": "22/01/2026",
+        "bbox": {
+          "page": 1,
+          "x1": 340,
+          "y1": 283,
+          "x2": 609,
+          "y2": 295
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "dueDate": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierName": {
+        "value": "CÔNG TY LIÊN DOANH HOÀNG KIM SÀI GÒN",
+        "bbox": {
+          "page": 1,
+          "x1": 328,
+          "y1": 48,
+          "x2": 554,
+          "y2": 59
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierAddress": {
+        "value": "12 Nguyễn Văn Linh, Phường Tân Phong, Thành phố Hồ Chí Minh, Việt Nam",
+        "bbox": {
+          "page": 1,
+          "x1": 328,
+          "y1": 64,
+          "x2": 908,
+          "y2": 89
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "buyerName": {
+        "value": "Global Fashion Group SGP Services Pte. Ltd",
+        "bbox": {
+          "page": 1,
+          "x1": 283,
+          "y1": 331,
+          "x2": 639,
+          "y2": 342
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "buyerTaxId": {
+        "value": "201541261G",
+        "bbox": {
+          "page": 1,
+          "x1": 171,
+          "y1": 447,
+          "x2": 260,
+          "y2": 457
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "currency": {
+        "value": "VND",
+        "bbox": {
+          "page": 1,
+          "x1": 673,
+          "y1": 712,
+          "x2": 746,
+          "y2": 724
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": 3925455.0,
+        "bbox": {
+          "page": 1,
+          "x1": 857,
+          "y1": 672,
+          "x2": 941,
+          "y2": 683
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "totalAmount": {
+        "value": 43180000.0,
+        "bbox": {
+          "page": 1,
+          "x1": 857,
+          "y1": 692,
+          "x2": 941,
+          "y2": 704
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "amountDue": {
+        "value": 43180000.0,
+        "bbox": {
+          "page": 1,
+          "x1": 857,
+          "y1": 692,
+          "x2": 941,
+          "y2": 704
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "paymentTerms": {
+        "value": "Tiền mặt/Chuyển khoản",
+        "bbox": {
+          "page": 1,
+          "x1": 359,
+          "y1": 414,
+          "x2": 539,
+          "y2": 425
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "purchaseOrderNumber": {
+        "value": "300491",
+        "bbox": {
+          "page": 1,
+          "x1": 301,
+          "y1": 433,
+          "x2": 350,
+          "y2": 443
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    "lineItems": [
+      {
+        "description": {
+          "value": "Thuê căn hộ 12/01/2026-11/02/2026",
+          "bbox": {
+            "page": 1,
+            "x1": 115,
+            "y1": 523,
+            "x2": 387,
+            "y2": 536
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 596,
+            "y1": 523,
+            "x2": 605,
+            "y2": 536
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 39254545.0,
+          "bbox": {
+            "page": 1,
+            "x1": 706,
+            "y1": 523,
+            "x2": 786,
+            "y2": 536
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 10.0,
+          "bbox": {
+            "page": 1,
+            "x1": 277,
+            "y1": 672,
+            "x2": 306,
+            "y2": 683
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": 3925455.0,
+          "bbox": {
+            "page": 1,
+            "x1": 857,
+            "y1": 672,
+            "x2": 941,
+            "y2": 683
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 39254545.0,
+          "bbox": {
+            "page": 1,
+            "x1": 857,
+            "y1": 523,
+            "x2": 941,
+            "y2": 536
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      }
+    ],
+    "isHumanReviewRequired": false,
+    "reviewReasons": []
+  },
+  {
+    "documentId": "multilingual_03_singapore.pdf",
+    "invoice": {
+      "invoiceNumber": {
+        "value": "537685",
+        "bbox": {
+          "page": 1,
+          "x1": 914,
+          "y1": 71,
+          "x2": 969,
+          "y2": 82
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "invoiceDate": {
+        "value": "09/09/25",
+        "bbox": {
+          "page": 1,
+          "x1": 654,
+          "y1": 146,
+          "x2": 728,
+          "y2": 158
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "dueDate": {
+        "value": "15/10/25",
+        "bbox": {
+          "page": 1,
+          "x1": 196,
+          "y1": 183,
+          "x2": 260,
+          "y2": 195
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierName": {
+        "value": "Evergreen Fresh Produce Pte Ltd",
+        "bbox": {
+          "page": 1,
+          "x1": 16,
+          "y1": 58,
+          "x2": 235,
+          "y2": 69
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "supplierAddress": {
+        "value": "42 Sungei Kadut Loop, #03-05 Kadut Logistics Hub Singapore 729665",
+        "bbox": {
+          "page": 1,
+          "x1": 16,
+          "y1": 79,
+          "x2": 473,
+          "y2": 90
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "buyerName": {
+        "value": "MILLIONAIRES TASTE PTE. LTD (REVERIE LIVE MUSIC)",
+        "bbox": {
+          "page": 1,
+          "x1": 196,
+          "y1": 147,
+          "x2": 441,
+          "y2": 172
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "buyerTaxId": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "currency": {
+        "value": "SGD",
+        "bbox": {
+          "page": 1,
+          "x1": 757,
+          "y1": 616,
+          "x2": 789,
+          "y2": 627
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "taxAmount": {
+        "value": 9.13,
+        "bbox": {
+          "page": 1,
+          "x1": 932,
+          "y1": 635,
+          "x2": 967,
+          "y2": 647
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "totalAmount": {
+        "value": 110.55,
+        "bbox": {
+          "page": 1,
+          "x1": 915,
+          "y1": 662,
+          "x2": 967,
+          "y2": 674
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "amountDue": {
+        "value": 110.55,
+        "bbox": {
+          "page": 1,
+          "x1": 915,
+          "y1": 662,
+          "x2": 967,
+          "y2": 674
+        },
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "paymentTerms": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      },
+      "purchaseOrderNumber": {
+        "value": null,
+        "bbox": null,
+        "isHumanReviewRequired": false,
+        "reviewReasons": []
+      }
+    },
+    "lineItems": [
+      {
+        "description": {
+          "value": "Carrot 红萝卜",
+          "bbox": {
+            "page": 1,
+            "x1": 192,
+            "y1": 341,
+            "x2": 284,
+            "y2": 353
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 1.2,
+          "bbox": {
+            "page": 1,
+            "x1": 639,
+            "y1": 341,
+            "x2": 669,
+            "y2": 353
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 1.4,
+          "bbox": {
+            "page": 1,
+            "x1": 831,
+            "y1": 341,
+            "x2": 861,
+            "y2": 353
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": {
+            "page": 1,
+            "x1": 738,
+            "y1": 635,
+            "x2": 758,
+            "y2": 647
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 1.68,
+          "bbox": {
+            "page": 1,
+            "x1": 934,
+            "y1": 341,
+            "x2": 967,
+            "y2": 353
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "Grape Red 红葡萄",
+          "bbox": {
+            "page": 1,
+            "x1": 192,
+            "y1": 361,
+            "x2": 328,
+            "y2": 374
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 0.5,
+          "bbox": {
+            "page": 1,
+            "x1": 639,
+            "y1": 361,
+            "x2": 669,
+            "y2": 374
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 6.5,
+          "bbox": {
+            "page": 1,
+            "x1": 831,
+            "y1": 361,
+            "x2": 861,
+            "y2": 374
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 3.25,
+          "bbox": {
+            "page": 1,
+            "x1": 934,
+            "y1": 361,
+            "x2": 967,
+            "y2": 374
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "Honeydew 蜜瓜",
+          "bbox": {
+            "page": 1,
+            "x1": 192,
+            "y1": 390,
+            "x2": 308,
+            "y2": 403
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 11.2,
+          "bbox": {
+            "page": 1,
+            "x1": 632,
+            "y1": 390,
+            "x2": 669,
+            "y2": 403
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 2.0,
+          "bbox": {
+            "page": 1,
+            "x1": 831,
+            "y1": 390,
+            "x2": 861,
+            "y2": 403
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 22.4,
+          "bbox": {
+            "page": 1,
+            "x1": 927,
+            "y1": 390,
+            "x2": 967,
+            "y2": 403
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "Pineapple Honey 蜜黄梨",
+          "bbox": {
+            "page": 1,
+            "x1": 192,
+            "y1": 414,
+            "x2": 374,
+            "y2": 427
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 10.3,
+          "bbox": {
+            "page": 1,
+            "x1": 632,
+            "y1": 414,
+            "x2": 669,
+            "y2": 427
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 1.7,
+          "bbox": {
+            "page": 1,
+            "x1": 831,
+            "y1": 414,
+            "x2": 861,
+            "y2": 427
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 17.51,
+          "bbox": {
+            "page": 1,
+            "x1": 927,
+            "y1": 414,
+            "x2": 967,
+            "y2": 427
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "Strawberry 草莓 250G",
+          "bbox": {
+            "page": 1,
+            "x1": 192,
+            "y1": 439,
+            "x2": 366,
+            "y2": 453
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 639,
+            "y1": 439,
+            "x2": 669,
+            "y2": 453
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 4.3,
+          "bbox": {
+            "page": 1,
+            "x1": 831,
+            "y1": 439,
+            "x2": 861,
+            "y2": 453
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 4.3,
+          "bbox": {
+            "page": 1,
+            "x1": 934,
+            "y1": 439,
+            "x2": 967,
+            "y2": 453
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "Watermelon 西瓜",
+          "bbox": {
+            "page": 1,
+            "x1": 192,
+            "y1": 461,
+            "x2": 328,
+            "y2": 474
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 18.0,
+          "bbox": {
+            "page": 1,
+            "x1": 632,
+            "y1": 461,
+            "x2": 669,
+            "y2": 474
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 1.25,
+          "bbox": {
+            "page": 1,
+            "x1": 831,
+            "y1": 461,
+            "x2": 861,
+            "y2": 474
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 22.5,
+          "bbox": {
+            "page": 1,
+            "x1": 927,
+            "y1": 461,
+            "x2": 967,
+            "y2": 474
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "Lettuce Iceberg 生菜粒",
+          "bbox": {
+            "page": 1,
+            "x1": 192,
+            "y1": 486,
+            "x2": 363,
+            "y2": 498
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 1.2,
+          "bbox": {
+            "page": 1,
+            "x1": 639,
+            "y1": 486,
+            "x2": 669,
+            "y2": 498
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 3.0,
+          "bbox": {
+            "page": 1,
+            "x1": 831,
+            "y1": 486,
+            "x2": 861,
+            "y2": 498
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 3.6,
+          "bbox": {
+            "page": 1,
+            "x1": 934,
+            "y1": 486,
+            "x2": 967,
+            "y2": 498
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "Mesclun Salad (Triple Washed) 沙拉",
+          "bbox": {
+            "page": 1,
+            "x1": 192,
+            "y1": 510,
+            "x2": 461,
+            "y2": 523
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 639,
+            "y1": 510,
+            "x2": 669,
+            "y2": 523
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 16.0,
+          "bbox": {
+            "page": 1,
+            "x1": 824,
+            "y1": 510,
+            "x2": 861,
+            "y2": 523
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 16.0,
+          "bbox": {
+            "page": 1,
+            "x1": 927,
+            "y1": 510,
+            "x2": 967,
+            "y2": 523
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "Romaine Lettuce 罗马生菜",
+          "bbox": {
+            "page": 1,
+            "x1": 192,
+            "y1": 535,
+            "x2": 393,
+            "y2": 548
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 1.0,
+          "bbox": {
+            "page": 1,
+            "x1": 639,
+            "y1": 535,
+            "x2": 669,
+            "y2": 548
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 3.5,
+          "bbox": {
+            "page": 1,
+            "x1": 831,
+            "y1": 535,
+            "x2": 861,
+            "y2": 548
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 3.5,
+          "bbox": {
+            "page": 1,
+            "x1": 934,
+            "y1": 535,
+            "x2": 967,
+            "y2": 548
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "Onion White Peeled 去皮白大葱 1kg",
+          "bbox": {
+            "page": 1,
+            "x1": 192,
+            "y1": 558,
+            "x2": 465,
+            "y2": 571
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 2.0,
+          "bbox": {
+            "page": 1,
+            "x1": 639,
+            "y1": 558,
+            "x2": 669,
+            "y2": 571
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 1.6,
+          "bbox": {
+            "page": 1,
+            "x1": 831,
+            "y1": 558,
+            "x2": 861,
+            "y2": 571
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 3.2,
+          "bbox": {
+            "page": 1,
+            "x1": 934,
+            "y1": 558,
+            "x2": 967,
+            "y2": 571
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      },
+      {
+        "description": {
+          "value": "Cabbage 包菜",
+          "bbox": {
+            "page": 1,
+            "x1": 192,
+            "y1": 583,
+            "x2": 298,
+            "y2": 597
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "quantity": {
+          "value": 2.9,
+          "bbox": {
+            "page": 1,
+            "x1": 639,
+            "y1": 583,
+            "x2": 669,
+            "y2": 597
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "unitPrice": {
+          "value": 1.2,
+          "bbox": {
+            "page": 1,
+            "x1": 831,
+            "y1": 583,
+            "x2": 861,
+            "y2": 597
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxRate": {
+          "value": 9.0,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "taxAmount": {
+          "value": null,
+          "bbox": null,
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        },
+        "lineAmount": {
+          "value": 3.48,
+          "bbox": {
+            "page": 1,
+            "x1": 934,
+            "y1": 583,
+            "x2": 967,
+            "y2": 597
+          },
+          "isHumanReviewRequired": false,
+          "reviewReasons": []
+        }
+      }
+    ],
+    "isHumanReviewRequired": false,
+    "reviewReasons": []
+  }
+]

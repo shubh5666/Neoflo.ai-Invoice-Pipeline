@@ -1,0 +1,12 @@
+
+google-cloud-documentai>=3.16.0
+
+pdf2image>=1.17.0
+
+opencv-python>=4.10.0.84
+
+numpy>=1.26.0
+
+pillow>=10.0.0
+
+
