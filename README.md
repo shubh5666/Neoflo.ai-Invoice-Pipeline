@@ -9,9 +9,9 @@ The system uses a 3-stage modular pipeline: image preprocessing & deskewing, clo
 ## 1. Tech Stack
 
 - `google-cloud-documentai`: Primary cloud extraction engine for document OCR, entity recognition, and pixel bounding box extraction.
-- `pdf2image` (v1.17.0): Converts single and multi-page PDFs into standardized 300 DPI image buffers.
-- `opencv-python` (v4.10.0): Image deskewing using Otsu thresholding and contour-based min-area rectangle rotation.
-- `os` & `json`: Python standard library modules for folder traversal across document categories and structured JSON serialization.
+- `pdf2image`: Converts single and multi-page PDFs into standardized 300 DPI image buffers.
+- `opencv-python`: Image deskewing using Otsu thresholding and contour-based min-area rectangle rotation.
+- `os` & `json`: Python standard library modules for folder traversal across document categories and structured JSON serializations.
 
 ---
 
