@@ -1,6 +1,5 @@
 import os
 import json
-import glob
 from pathlib import Path
 from src.preprocessor import DocumentPreprocessor
 from src.extractor import InvoiceExtractor

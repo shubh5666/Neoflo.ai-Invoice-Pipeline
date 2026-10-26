@@ -1,4 +1,4 @@
-from typing import Dict, Any, List, Tuple
+from typing import Dict, Any, List
 
 # Mandatory fields defined in assignment
 MANDATORY_FIELDS = [

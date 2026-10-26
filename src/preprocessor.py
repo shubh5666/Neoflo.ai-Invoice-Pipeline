@@ -1,7 +1,6 @@
 import os
 import cv2
 import numpy as np
-from PIL import Image
 
 try:
     from pdf2image import convert_from_path
@@ -14,9 +13,22 @@ class DocumentPreprocessor:
 
     def __init__(self, dpi: int = 300):
         self.dpi = dpi
-        self._poppler_warned = False
 
-    # Deskew tilted page scans
+    # convert pdf pages to images
+    def convert_pdf_to_images(self, pdf_path: str):
+        if not os.path.exists(pdf_path):
+            raise FileNotFoundError(f"Document not found at: {pdf_path}")
+
+        images = []
+        if PDF2IMAGE_AVAILABLE:
+            try:
+                images = convert_from_path(pdf_path, dpi=self.dpi)
+            except Exception:
+                pass
+
+        return images
+
+    # deskew tilted scans using min-area rect
     def deskew_image(self, image: np.ndarray) -> np.ndarray:
         if image is None or image.size == 0:
             return image
@@ -37,33 +49,18 @@ class DocumentPreprocessor:
         else:
             angle = -angle
 
-        # Fix minor skew, ignore large 90 degree flips
-        if abs(angle) > 0.3 and abs(angle) < 45:
+        # skip minor noise or 90 deg flips
+        if 0.3 < abs(angle) < 45:
             (h, w) = image.shape[:2]
             center = (w // 2, h // 2)
             M = cv2.getRotationMatrix2D(center, angle, 1.0)
-            deskewed = cv2.warpAffine(
+            return cv2.warpAffine(
                 image, M, (w, h),
                 flags=cv2.INTER_CUBIC,
                 borderMode=cv2.BORDER_REPLICATE
             )
-            return deskewed
 
         return image
-
-    # Rasterize PDF pages to 300 DPI images
-    def convert_pdf_to_images(self, pdf_path: str):
-        if not os.path.exists(pdf_path):
-            raise FileNotFoundError(f"Document not found at: {pdf_path}")
-
-        images = []
-        if PDF2IMAGE_AVAILABLE:
-            try:
-                images = convert_from_path(pdf_path, dpi=self.dpi)
-            except Exception:
-                pass
-
-        return images
 
     def preprocess_document(self, file_path: str) -> dict:
         filename = os.path.basename(file_path)
@@ -75,7 +72,7 @@ class DocumentPreprocessor:
             if len(np_img.shape) == 3 and np_img.shape[2] == 3:
                 np_img = cv2.cvtColor(np_img, cv2.COLOR_RGB2BGR)
 
-            deskewed_img = self.deskew_image(np_img)
+            self.deskew_image(np_img)
             processed_pages.append({
                 "pageNumber": idx + 1,
                 "width": img.width,
