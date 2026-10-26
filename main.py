@@ -15,7 +15,7 @@ if hasattr(sys.stdout, "reconfigure"):
         pass
 
 
-def run_pipeline():
+def run_pipeline(target_files=None):
     base_dir = Path(__file__).resolve().parent
     data_dir = base_dir / "data"
     output_file = base_dir / "final_extracted_invoices.json"
@@ -35,11 +35,43 @@ def run_pipeline():
             files = sorted(list(cat_path.glob("*.pdf")))
             all_files.extend(files)
 
-    if not all_files:
+    if not all_files and not target_files:
         print("[Error] No PDF files found in data/ directories.")
         return
 
-    print(f"Processing {len(all_files)} invoices across categories: {', '.join(categories)}\n")
+    # Filter to specific target file(s) if provided via CLI
+    if target_files:
+        selected_files = []
+        for target in target_files:
+            target_path = Path(target)
+            if target_path.is_file():
+                selected_files.append(target_path.resolve())
+            else:
+                matched = [
+                    f for f in all_files
+                    if f.name.lower() == target.lower() or f.stem.lower() == target.lower()
+                ]
+                if not matched:
+                    matched = list(data_dir.rglob(target))
+                if matched:
+                    for m in matched:
+                        if m not in selected_files:
+                            selected_files.append(m)
+                else:
+                    print(f"[Warning] Specified document '{target}' not found.")
+
+        if not selected_files:
+            print("[Error] None of the specified PDF files were found.")
+            return
+
+        all_files = selected_files
+
+    active_categories = sorted(list(set(
+        f.parent.name.capitalize() if f.parent.name.lower() in categories else "Custom"
+        for f in all_files
+    )))
+
+    print(f"Processing {len(all_files)} invoice(s) across categories: {', '.join(active_categories)}\n")
     print(f"  #   {'Category':<13} {'Document File':<36} Status")
     print("  " + "-" * 76)
 
@@ -47,7 +79,7 @@ def run_pipeline():
 
     for idx, file_path in enumerate(all_files, 1):
         filename = file_path.name
-        rel_cat = file_path.parent.name.capitalize()
+        rel_cat = file_path.parent.name.capitalize() if file_path.parent.name.lower() in categories else "Custom"
 
         # 3-step pipeline: preprocess -> extract -> validate
         prep_meta = preprocessor.preprocess_document(str(file_path))
@@ -87,4 +119,5 @@ def run_pipeline():
 
 
 if __name__ == "__main__":
-    run_pipeline()
+    targets = sys.argv[1:] if len(sys.argv) > 1 else None
+    run_pipeline(targets)
